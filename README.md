@@ -1,2 +1,2 @@
 # ValidadorDeCartao
-Sistema feito com requisito de validae e verificar numeros de cartões de crédito. Sistema desenvolvido no primeiro semestre de Sistemas de Informação pela Universidade Federal de Uberlândia.
+Sistema feito com requisito de validar e verificar números de cartões de crédito. O sistema foi desenvolvido no primeiro semestre de Sistemas de Informação pela Universidade Federal de Uberlândia.
